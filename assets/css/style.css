@@ -210,9 +210,9 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: auto;
   height: 100vh;
-  background: url("../img/hero_bg.jpg") center;
+  background: url("../img/hero_bg-min.jpg") center;
   /* background-color: #61686b; */
   background-size: cover;
 }
